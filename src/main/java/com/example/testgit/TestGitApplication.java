@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TestGitApplication {
 
     public static void main(String[] args) {
-        System.out.println("asdfnm,");
+        System.out.println("Hello!!");
     }
 
 }
